@@ -7,9 +7,9 @@
 <h1>Sobre mi 😎</h1>
 
 <div>
-🎓 Estudiante Análisis y Desarrollo de Software | 5 Trimestre | SENA 
+🎓 Análisis y Desarrollo de Software | 5 Trimestre | SENA 
 <br>
-💻 Desarrollador Junior | Interesado en FrontEnd 
+💻 Desarrollador | Interesado en FrontEnd 
 
 📫 Contacto: **garciafuentes.diegofernando3@gmail.com**  
 </div>
